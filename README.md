@@ -1,16 +1,24 @@
-## Hi there 👋
+# 🎧 echoLiber7y
 
-<!--
-**echoLiber7y/echoLiber7y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This is my personal space to track progress, study time, and stay accountable on my journey to 10,000 hours of deep practice.
 
-Here are some ideas to get you started:
+## 🎯 Goals
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⌛ 10,000 hours of dedicated practice
+- 🥁 Finger drumming
+- 🎚️ EDM & electronic music production
+- 🎸 Practicing bass & guitar
+- 🎤 Developing vocals
+- 🤝 Collaborating & networking with musicians
+
+## 🧠 Philosophy
+
+Stay open-minded. Learn from everyone. Be the kind of musician who can vibe with anyone — from electronic producers to jazz heads, from lo-fi creators to live bands.
+
+## 🔍 Current Focus
+
+Laying the foundation. Practicing regularly. Logging progress. Building habits.
+
+---
+
+More to come as I grow.
